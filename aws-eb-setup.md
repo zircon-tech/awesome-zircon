@@ -1,4 +1,5 @@
 ---
+theme: jekyll-theme-slate
 layout: page
 title: "AWS Elastic Beanstalk Setup"
 permalink: /aws-eb-setup/
