@@ -1,6 +1,6 @@
 layout: page
 title: "AWS Elastic Beanstalk Setup"
-permalink: /aws-eb-setup
+permalink: /aws-eb-setup/
 
 ## AWS Elastic Beanstalk Setup
 
