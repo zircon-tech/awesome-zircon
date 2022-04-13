@@ -31,5 +31,5 @@ Addiontally, the documentation site [https://zircon-docs.netlify.com/](https://z
 ### Contribution
 We encourage you to share your knowledge 🚀
 
-Refer to the [Contributions](#) description to set up this project locally using Gatsby and colaborate with additional entries to the Documentation site.
+Refer to the [Contributions](https://github.com/zircon-tech/awesome-zircon/blob/main/CONTRIBUTIONS.md) description to set up this project locally using Gatsby and colaborate with additional entries to the Documentation site.
 
