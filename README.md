@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Awesome Zircon 🕶️
 
-You can use the [editor on GitHub](https://github.com/zircon-tech/awesome-zircon/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Awesome Zircon is a source of information, tools and resources created by and for the ZirconTeam
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### How to use this repo
 
-### Markdown
+This repo is structured using [Git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules). You'll find complete examples and projects listed on the repo, feel free to visit and clone the ones of your interest.
+Addiontally, the documentation site [https://zircon-docs.netlify.com/](https://zircon-docs.netlify.com/) is mainteined to provide a complementary source of posts and snippets in MDX format.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### List of resources
 
-```markdown
-Syntax highlighted code block
+#### General
 
-# Header 1
-## Header 2
-### Header 3
+- [This repository](https://github.com/zircon-tech/awesome-zircon)
+- [This website](https://zircon-docs.netlify.com/)
 
-- Bulleted
-- List
+#### AWS
 
-1. Numbered
-2. List
+* [AWS Elastic Beanstalk Setup](https://github.com/zircon-tech/aws-eb-setup)
 
-**Bold** and _Italic_ and `Code` text
+#### Blockchain
 
-[Link](url) and ![Image](src)
-```
+- [Blockchain Development](#)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+#### ReactJS
+ - TODO
 
-### Jekyll Themes
+#### NodeJS
+- TODO
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zircon-tech/awesome-zircon/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Contribution
+We encourage you to share your knowledge 🚀
 
-### Support or Contact
+Refer to the [Contributions](#) description to set up this project locally using Gatsby and colaborate with additional entries to the Documentation site.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

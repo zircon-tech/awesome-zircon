@@ -1,8 +1,0 @@
-- title: Home
-  url: /awesome-zircon
-
-- title: AWS
-  url: /awesome-zircon/aws
-  sublinks:
-    - title: AWS Elastic Beanstalk Setup
-      url: /aws-eb-setup

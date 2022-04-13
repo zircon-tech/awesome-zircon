@@ -1,0 +1,62 @@
+---
+title: Bienvenido a Awesome Zircon!
+display order: 0
+---
+
+##### <b>Awesome Zircon</b> es un espacio de información y recursos creado por y para el equipo ZirconTech 🇺🇾 🇦🇷 🇲🇽 🇻🇪 🇪🇸
+
+<hr />
+
+#### Acerca de 
+<br />
+<p>
+La tecnología en el desarrollo de Software avanza a pasos muy rápidos, todos los días un nuevo Framework, Librería, Lenguaje que aprender. 
+Afortunadamente, Zircon también es parte de este crecimiento adoptando nuevos proyectos y experiencias en el camino. Es por eso que creímos necesario
+comenzar a construir nuestra propia fuente de recursos que nos ayuden a evitar "reinventar la rueda", como se dice por ahí, y enriquecer nuestro Github público
+con diferentes cosas que hayan sido resueltas y validadas en los distintos proyectos. El objetivo, es facilitar el soporte de estrategias y resolución de problemas cuando
+alguien deba enfrentarse a un desafío similar en el futuro agilizando el proceso y reutilizando el conocimiento.
+</p>
+
+#### Uso
+<br />
+<p>
+Todo el contenido de este sitio está disponible para descargar y usar en cualquier lugar. Puedes navegar el contenido visitando el índice y las secciones de la izquierda así como también
+clonar cualquiera de los submodulos del repositorio que contendrán ejemplos concretos de código. Asimismo, los snippets en gist pueden ser accedidos de forma libre.
+</p>
+<br />
+
+#### Colaborar
+<br />
+
+Este es un espacio de todos y para todos. Por eso nos parece importante que juntos podamos colaborar con fuentes de información que ayuden a otros. Desde un snippet de código en gist,
+un blog post, un boilerplate, una prueba con una librería, un caso de uso común como "subir archivos", "implementar un flujo de OAuth2", un contrato de Governance en blockchain, etc.
+Todo lo que está contenido en este repositorio es de acceso público por lo que es una motivación extra el mejorar los perfiles Github personales al contribuir al repo.
+
+Existen 2 formas principales de colaborar: O bien agregar una entrada a este sitio o agregar un repositorio a la lista de git submodules del repositorio principal.
+
+1.  Para agregar contenido al sitio, agrega nuevas páginas creando archivos MDX en el directorio `content/pages`. `/content/pages/index.mdx` funciona como la página principal. 
+    Nuevas páginas son automáticamente agregadas a la navegación del sitio. Para crear sub-páginas (representadas en la navegación como listas colapsables), 
+    crea una carpeta dentro de `content/pages` con el mismo nombre de la página padre para la que quieras crear una subpágina. 
+    El siguiente ejemplo crea la página `foo.mdx` con la sub-página `bar.mdx`.
+
+    ```text
+    .
+    └── content
+        └── pages
+            ├── foo
+            │   └── bar.mdx
+            └── foo.mdx
+    ```
+<br />
+
+2.  La otra forma de añadir contenido es utilizando `git submodules`. Para ello simplemente es necesario linkear el repositorio existente a este utilizando el comando
+    `git sumodule add <git repo>`. Luego será importante actualizar la existencia del repo en la documentación de este sitio tanto en el README.md principal como en el presente sitio.
+    Para ello, simplemente buscar una locación adecuada para agregar la referencia o crear un nuevo submmenú como se menciona en el paso anterior.
+
+<br />
+
+En cuanto a los snippets de código, preferimos que uses [Gist](https://gist.github.com/). Esto nos permite mantener una base de datos de snippets. Puedes agregar la referencia al index de este sitio.
+
+Finalmente, asegurate de generar Pull Requests como parte del proceso de colaboración.
+
+
