@@ -1,0 +1,3 @@
+[submodule "aws-eb-setup"]
+	path = aws-eb-setup
+	url = git@github.com:zircon-tech/aws-eb-setup.git
