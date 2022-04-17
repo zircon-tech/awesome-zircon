@@ -5,14 +5,14 @@ Awesome Zircon is a source of information, tools and resources created by and fo
 ### How to use this repo
 
 This repo is structured using [Git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules). You'll find complete examples and projects listed on the repo, feel free to visit and clone the ones of your interest.
-Addiontally, the documentation site [https://zircon-docs.netlify.com/](https://zircon-docs.netlify.com/) is mainteined to provide a complementary source of posts and snippets in MDX format.
+Addiontally, the documentation site [https://awesome-zircon.netlify.app/](https://awesome-zircon.netlify.app/) is mainteined to provide a complementary source of posts and snippets in MDX format.
 
 ### List of resources
 
 #### General
 
 - [This repository](https://github.com/zircon-tech/awesome-zircon)
-- [This website](https://zircon-docs.netlify.com/)
+- [This website](https://awesome-zircon.netlify.app/)
 
 #### AWS
 
