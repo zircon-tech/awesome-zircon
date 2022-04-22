@@ -18,6 +18,10 @@ Addiontally, the documentation site [https://awesome-zircon.netlify.app/](https:
 
 * [AWS Elastic Beanstalk Setup](https://github.com/zircon-tech/aws-eb-setup)
 
+#### C++
+
+* [C++ Development](https://github.com/zircon-tech/cpp-development)
+
 #### Blockchain
 
 - [Blockchain Development](#)

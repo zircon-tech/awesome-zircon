@@ -1,3 +1,6 @@
 [submodule "aws-eb-setup"]
 	path = aws-eb-setup
 	url = https://github.com/zircon-tech/aws-eb-setup.git
+[submodule "cpp-development"]
+	path = cpp-development
+	url = https://github.com/zircon-tech/cpp-development
