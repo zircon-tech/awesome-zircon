@@ -27,7 +27,7 @@ Addiontally, the documentation site [https://awesome-zircon.netlify.app/](https:
 - [Blockchain Development](#)
 
 #### ReactJS
- - TODO
+ - [NextJS Boilerplace](https://github.com/zircon-tech/reactjs-boilerplate)
 
 #### NodeJS
 - TODO
