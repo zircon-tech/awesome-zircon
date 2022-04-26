@@ -4,3 +4,6 @@
 [submodule "cpp-development"]
 	path = cpp-development
 	url = https://github.com/zircon-tech/cpp-development
+[submodule "reactjs-boilerplate"]
+	path = reactjs-boilerplate
+	url = https://github.com/zircon-tech/reactjs-boilerplate
