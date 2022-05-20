@@ -24,7 +24,7 @@ Addiontally, the documentation site [https://awesome-zircon.netlify.app/](https:
 
 #### Blockchain
 
-- [Blockchain Development](#)
+- [Web 3 Wallet Connect](https://github.com/zircon-tech/web3-wallet-connect)
 
 #### ReactJS
  - [NextJS Boilerplace](https://github.com/zircon-tech/reactjs-boilerplate)

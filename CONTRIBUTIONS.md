@@ -3,6 +3,10 @@
 1. Node.js/NPM: https://nodejs.org/en/
 2. Gatsby CLI: `npm install -g gatsby-cli`
 
+## Run
+
+Start the Gatsby web with `npm start` to visualize changes
+
 # How to Use
 
 ## How to Add Content
