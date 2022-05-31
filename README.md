@@ -17,6 +17,7 @@ Addiontally, the documentation site [https://awesome-zircon.netlify.app/](https:
 #### AWS
 
 * [AWS Elastic Beanstalk Setup](https://github.com/zircon-tech/aws-eb-setup)
+* [AWS Elastic Service Container Setup](https://github.com/zircon-tech/aws-ecs-setup)
 
 #### C++
 
