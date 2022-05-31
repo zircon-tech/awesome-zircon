@@ -10,3 +10,6 @@
 [submodule "web3-wallet-connect"]
 	path = web3-wallet-connect
 	url = https://github.com/zircon-tech/web3-wallet-connect
+[submodule "aws-ecs-setup"]
+	path = aws-ecs-setup
+	url = https://github.com/zircon-tech/aws-ecs-setup.git
