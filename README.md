@@ -28,6 +28,8 @@ Addiontally, the documentation site [https://awesome-zircon.netlify.app/](https:
 - [Web 3 Wallet Connect](https://github.com/zircon-tech/web3-wallet-connect)
 - [Asset Tokenization](https://github.com/zircon-tech/asset-tokenization)
 - [Voting Dapp Example](https://github.com/wolivera/voting-dapp.git)
+- [Web3 Forum Tutorial](https://www.pointer.gg/tutorials/create-a-web3-forum-with-polygon/1cb8f005-08f4-48a2-9d82-cd963e16f7f1)
+- [Take payments with Solana](https://www.pointer.gg/tutorials/solana-pay-irl-payments/944eba7e-82c6-4527-b55c-5411cdf63b23)
 
 #### ReactJS
  - [NextJS Boilerplace](https://github.com/zircon-tech/reactjs-boilerplate)
