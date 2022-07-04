@@ -13,3 +13,9 @@
 [submodule "aws-ecs-setup"]
 	path = aws-ecs-setup
 	url = https://github.com/zircon-tech/aws-ecs-setup.git
+[submodule "voting-dapp"]
+	path = voting-dapp
+	url = https://github.com/wolivera/voting-dapp.git
+[submodule "asset-tokenization"]
+	path = asset-tokenization
+	url = https://github.com/zircon-tech/asset-tokenization

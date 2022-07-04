@@ -16,21 +16,25 @@ Addiontally, the documentation site [https://awesome-zircon.netlify.app/](https:
 
 #### AWS
 
-* [AWS Elastic Beanstalk Setup](https://github.com/zircon-tech/aws-eb-setup)
+- [AWS Elastic Beanstalk Setup](https://github.com/zircon-tech/aws-eb-setup)
+- [AWS Elastic Container Setup](https://github.com/zircon-tech/aws-ecs-setup)
 
 #### C++
 
-* [C++ Development](https://github.com/zircon-tech/cpp-development)
+- [C++ Development](https://github.com/zircon-tech/cpp-development)
 
 #### Blockchain
 
 - [Web 3 Wallet Connect](https://github.com/zircon-tech/web3-wallet-connect)
+- [Asset Tokenization](https://github.com/zircon-tech/asset-tokenization)
+- [Voting Dapp Example](https://github.com/wolivera/voting-dapp.git)
 
 #### ReactJS
  - [NextJS Boilerplace](https://github.com/zircon-tech/reactjs-boilerplate)
 
 #### NodeJS
-- TODO
+- [NestJS API example](https://github.com/zircon-tech/xylo-api)
+- [Prisma ORM](https://github.com/zircon-tech/asset-tokenization/tree/hackathon/databases/example-db)
 
 ### Contribution
 We encourage you to share your knowledge 🚀
