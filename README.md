@@ -4,37 +4,62 @@ Awesome Zircon is a source of information, tools and resources created by and fo
 
 ### How to use this repo
 
-This repo is structured using [Git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules). You'll find complete examples and projects listed on the repo, feel free to visit and clone the ones of your interest.
-Addiontally, the documentation site [https://awesome-zircon.netlify.app/](https://awesome-zircon.netlify.app/) is mainteined to provide a complementary source of posts and snippets in MDX format.
+This repo shares a list of resources and useful links for the main technologies we work with. We thought of keeping this as an open source contribution so anyone can take advantage of it. Besides external links for learning general stuff the repo is also structured using [Git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules). You'll find complete examples and projects listed on the repo, feel free to visit and clone the ones of your interest.
+Addiontally, the documentation site [https://awesome-zircon.netlify.app/](https://awesome-zircon.netlify.app/) is maintained to provide a complementary source of posts and snippets in MDX format.
 
 ### List of resources
 
-#### General
+## General
 
 - [This repository](https://github.com/zircon-tech/awesome-zircon)
 - [This website](https://awesome-zircon.netlify.app/)
 
-#### AWS
+## AWS
 
+#### Examples
 - [AWS Elastic Beanstalk Setup](https://github.com/zircon-tech/aws-eb-setup)
 - [AWS Elastic Container Setup](https://github.com/zircon-tech/aws-ecs-setup)
 
-#### C++
+## C++
 
+#### Learning
 - [C++ Development](https://github.com/zircon-tech/cpp-development)
 
-#### Blockchain
+## Blockchain
+ 
+#### Learning
 
+- [Ethereum Cource on Udemy](https://www.udemy.com/course/building-an-ethereum-blockchain-app-the-total-course) - Full Ethereum Blockchain course, blockchain basics + ethereum dapps practical projects (get access credentials on Zircon's Passbolt)
+
+#### Examples
 - [Web 3 Wallet Connect](https://github.com/zircon-tech/web3-wallet-connect)
 - [Asset Tokenization](https://github.com/zircon-tech/asset-tokenization)
 - [Voting Dapp Example](https://github.com/wolivera/voting-dapp.git)
 - [Web3 Forum Tutorial](https://www.pointer.gg/tutorials/create-a-web3-forum-with-polygon/1cb8f005-08f4-48a2-9d82-cd963e16f7f1)
 - [Take payments with Solana](https://www.pointer.gg/tutorials/solana-pay-irl-payments/944eba7e-82c6-4527-b55c-5411cdf63b23)
 
-#### ReactJS
+## ReactJS
+
+#### Examples
  - [NextJS Boilerplace](https://github.com/zircon-tech/reactjs-boilerplate)
 
-#### NodeJS
+## NodeJS
+
+#### Learning
+
+- [NodeJS + Mongo + REST + GraphQL Udemy Course](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery) - Full NodeJS course on Udemy including advanced NodeJS. Express, GraphQL, REST, MongoDB, SQL, MERN  (get access credentials on Zircon's Passbolt)
+- [NestJS Udemy Course](https://www.udemy.com/course/nestjs-the-complete-developers-guide/) - Full NestJS course on Udemy (get access credentials on Zircon's Passbolt)
+- [NodeJS interactive tutorial](https://nodeschool.io/)
+- [Curated list of modules](https://nodejs.libhunt.com/)
+
+#### Frameworks & Tools
+- [NestJS](https://nestjs.com/) - A progressive framework for building efficient, reliable and scalable server-side applications
+- [ExpressJS](https://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
+- [Factor](https://factor.dev/) - CMS minimal NodeJS based
+- [KeystoneJS](https://keystonejs.com/) - Another NodeJS based CMS
+
+#### Examples
+
 - [NestJS API example](https://github.com/zircon-tech/xylo-api)
 - [Prisma ORM](https://github.com/zircon-tech/asset-tokenization/tree/hackathon/databases/example-db)
 
