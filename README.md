@@ -1,6 +1,6 @@
 ## Awesome Zircon 🕶️
 
-Awesome Zircon is a source of information, tools and resources created by and for the ZirconTeam
+Awesome Zircon is a source of information, tools and resources created by and for the [ZirconTech](https://zircon.tech) Team
 
 ### How to use this repo
 
@@ -40,8 +40,19 @@ Addiontally, the documentation site [https://awesome-zircon.netlify.app/](https:
 
 ## ReactJS
 
+#### Learning
+
+- [ReactJS tutorial](https://reactjs.org/tutorial/tutorial.html)
+- [Learn React interactively](https://scrimba.com/learn/learnreact)
+- [FreeCodeCamp React](https://www.freecodecamp.org/learn/front-end-development-libraries/react/)
+- [React Hooks](https://blog.logrocket.com/react-hooks-cheat-sheet-unlock-solutions-to-common-problems-af4caf699e70/)
+
 #### Examples
- - [NextJS Boilerplace](https://github.com/zircon-tech/reactjs-boilerplate)
+
+ - [NextJS Boilerplate](https://github.com/zircon-tech/reactjs-boilerplate)
+ - [React Hackernews w/ GraphQL](https://github.com/zircon-tech/hackernews-react-graphql)
+ - [React Patterns](https://reactpatterns.com/)
+ - [React Cheatsheet](https://devhints.io/react)
 
 ## NodeJS
 
