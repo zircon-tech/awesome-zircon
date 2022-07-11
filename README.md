@@ -34,6 +34,7 @@ Addiontally, the documentation site [https://awesome-zircon.netlify.app/](https:
 - [Write a JS blockchain](https://savjee.be/2017/07/Writing-tiny-blockchain-in-JavaScript/)
 - [Awesome DeFi](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
 - [Awesome Blockchain](https://github.com/yjjnls/awesome-blockchain)
+- [Certificate Verifier/Notarizer](https://github.com/zircon-tech/blockcerts-verifier)
 
 #### Examples
 - [Web 3 Wallet Connect](https://github.com/zircon-tech/web3-wallet-connect)
