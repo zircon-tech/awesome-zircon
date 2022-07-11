@@ -20,7 +20,7 @@ Addiontally, the documentation site [https://awesome-zircon.netlify.app/](https:
 - [Awesome AWS](https://github.com/donnemartin/awesome-aws)
 - [AWS Hands-On examples](https://aws.amazon.com/getting-started/hands-on)
 
-#### Examples
+#### Resources
 - [AWS Elastic Beanstalk Setup](https://github.com/zircon-tech/aws-eb-setup)
 - [AWS Elastic Container Setup](https://github.com/zircon-tech/aws-ecs-setup)
 
@@ -36,7 +36,7 @@ Addiontally, the documentation site [https://awesome-zircon.netlify.app/](https:
 - [Awesome Blockchain](https://github.com/yjjnls/awesome-blockchain)
 - [Certificate Verifier/Notarizer](https://github.com/zircon-tech/blockcerts-verifier)
 
-#### Examples
+#### Resources
 - [Web 3 Wallet Connect](https://github.com/zircon-tech/web3-wallet-connect)
 - [Asset Tokenization](https://github.com/zircon-tech/asset-tokenization)
 - [Voting Dapp Example](https://github.com/wolivera/voting-dapp.git)
@@ -55,7 +55,7 @@ Addiontally, the documentation site [https://awesome-zircon.netlify.app/](https:
 - [FreeCodeCamp React](https://www.freecodecamp.org/learn/front-end-development-libraries/react/)
 - [React Hooks](https://blog.logrocket.com/react-hooks-cheat-sheet-unlock-solutions-to-common-problems-af4caf699e70/)
 
-#### Examples
+#### Resources
 
  - [NextJS Boilerplate](https://github.com/zircon-tech/reactjs-boilerplate)
  - [React Hackernews w/ GraphQL](https://github.com/zircon-tech/hackernews-react-graphql)
@@ -75,7 +75,7 @@ Addiontally, the documentation site [https://awesome-zircon.netlify.app/](https:
 - [Factor](https://factor.dev/) - CMS minimal NodeJS based
 - [KeystoneJS](https://keystonejs.com/) - Another NodeJS based CMS
 
-#### Examples
+#### Resources
 
 - [NestJS API example](https://github.com/zircon-tech/xylo-api)
 - [Prisma ORM](https://github.com/zircon-tech/asset-tokenization/tree/hackathon/databases/example-db)
